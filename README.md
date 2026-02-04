@@ -154,14 +154,6 @@ Run cells sequentially → data loading → training → evaluation → visualiz
 └── README.md
 ```
 
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
-You are free to use, modify, and distribute this software for academic and commercial purposes, provided that the original license and copyright notice are included.
-
-
 ## 🙏 Acknowledgments
 
 - **Dr. Lokesh Das** — Project guidance and mentorship  
@@ -169,9 +161,16 @@ You are free to use, modify, and distribute this software for academic and comme
 - **Malo et al.** — Financial PhraseBank dataset  
 
 ---
+## 🧑‍💻 Contributing
 
+Interested in contributing? Great! We welcome pull requests, and for major changes, please open an issue first to discuss what you would like to change.
+
+## 📜 License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 ## 💬 Contact & Support
 
 Feedback, questions, or collaboration opportunities are welcome.
 
 ⭐ If you find this repository useful, please consider giving it a star!
+
